@@ -1,5 +1,5 @@
 # React Fitness Application
-# https://fitness-app-rapidapi-1349.netlify.app
+# https://react-fitness-app-1349.netlify.app/
 
 ![React Fitness Application](./public/FitnessApp0.png)
 
